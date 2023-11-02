@@ -7,8 +7,8 @@
 #include <HDM64GS12.c> 
 #include <graphics.c>
 
-char yazi1[]="CAZ";
-char yazi2[]="Dinliyorum";
+char yazi1[]="CCS";
+char yazi2[]="C";
 int i, x1, y1, x2, y2;
 
 void main(){
